@@ -2867,18 +2867,18 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/Eyes1pngcopy.png?1681503335382", id:"Eyes1pngcopy"},
-		{src:"images/Eyes2.png?1681503335382", id:"Eyes2"},
-		{src:"images/Eyes3.png?1681503335382", id:"Eyes3"},
-		{src:"images/Eyes4.png?1681503335382", id:"Eyes4"},
-		{src:"images/Eyes5.png?1681503335382", id:"Eyes5"},
-		{src:"images/Eyes6.png?1681503335382", id:"Eyes6"},
-		{src:"images/Emily.Archer_DressUpGame_final_atlas_1.png?1681503335301", id:"Emily.Archer_DressUpGame_final_atlas_1"},
-		{src:"images/Emily.Archer_DressUpGame_final_atlas_2.png?1681503335301", id:"Emily.Archer_DressUpGame_final_atlas_2"},
-		{src:"images/Emily.Archer_DressUpGame_final_atlas_3.png?1681503335302", id:"Emily.Archer_DressUpGame_final_atlas_3"},
-		{src:"images/Emily.Archer_DressUpGame_final_atlas_4.png?1681503335302", id:"Emily.Archer_DressUpGame_final_atlas_4"},
-		{src:"images/Emily.Archer_DressUpGame_final_atlas_5.png?1681503335302", id:"Emily.Archer_DressUpGame_final_atlas_5"},
-		{src:"sounds/NailsHairHipsHeelsTodrickHallCleanVersionwav.mp3?1681503335382", id:"NailsHairHipsHeelsTodrickHallCleanVersionwav"}
+		{src:"images/Eyes1pngcopy.png?1681503970824", id:"Eyes1pngcopy"},
+		{src:"images/Eyes2.png?1681503970824", id:"Eyes2"},
+		{src:"images/Eyes3.png?1681503970824", id:"Eyes3"},
+		{src:"images/Eyes4.png?1681503970824", id:"Eyes4"},
+		{src:"images/Eyes5.png?1681503970824", id:"Eyes5"},
+		{src:"images/Eyes6.png?1681503970824", id:"Eyes6"},
+		{src:"images/Emily.Archer_DressUpGame_final_atlas_1.png?1681503970753", id:"Emily.Archer_DressUpGame_final_atlas_1"},
+		{src:"images/Emily.Archer_DressUpGame_final_atlas_2.png?1681503970753", id:"Emily.Archer_DressUpGame_final_atlas_2"},
+		{src:"images/Emily.Archer_DressUpGame_final_atlas_3.png?1681503970753", id:"Emily.Archer_DressUpGame_final_atlas_3"},
+		{src:"images/Emily.Archer_DressUpGame_final_atlas_4.png?1681503970753", id:"Emily.Archer_DressUpGame_final_atlas_4"},
+		{src:"images/Emily.Archer_DressUpGame_final_atlas_5.png?1681503970754", id:"Emily.Archer_DressUpGame_final_atlas_5"},
+		{src:"sounds/NailsHairHipsHeelsTodrickHallCleanVersionwav.mp3?1681503970824", id:"NailsHairHipsHeelsTodrickHallCleanVersionwav"}
 	],
 	preloads: []
 };
