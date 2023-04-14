@@ -2867,18 +2867,18 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/Eyes1pngcopy.png", id:"Eyes1pngcopy"},
-		{src:"images/Eyes2.png", id:"Eyes2"},
-		{src:"images/Eyes3.png", id:"Eyes3"},
-		{src:"images/Eyes4.png", id:"Eyes4"},
-		{src:"images/Eyes5.png", id:"Eyes5"},
-		{src:"images/Eyes6.png", id:"Eyes6"},
-		{src:"images/Emily.Archer_DressUpGame_final_atlas_1.png", id:"Emily.Archer_DressUpGame_final_atlas_1"},
-		{src:"images/Emily.Archer_DressUpGame_final_atlas_2.png", id:"Emily.Archer_DressUpGame_final_atlas_2"},
-		{src:"images/Emily.Archer_DressUpGame_final_atlas_3.png", id:"Emily.Archer_DressUpGame_final_atlas_3"},
-		{src:"images/Emily.Archer_DressUpGame_final_atlas_4.png", id:"Emily.Archer_DressUpGame_final_atlas_4"},
-		{src:"images/Emily.Archer_DressUpGame_final_atlas_5.png", id:"Emily.Archer_DressUpGame_final_atlas_5"},
-		{src:"sounds/NailsHairHipsHeelsTodrickHallCleanVersionwav.mp3", id:"NailsHairHipsHeelsTodrickHallCleanVersionwav"}
+		{src:"images/Eyes1pngcopy.png?1681502948529", id:"Eyes1pngcopy"},
+		{src:"images/Eyes2.png?1681502948529", id:"Eyes2"},
+		{src:"images/Eyes3.png?1681502948529", id:"Eyes3"},
+		{src:"images/Eyes4.png?1681502948529", id:"Eyes4"},
+		{src:"images/Eyes5.png?1681502948529", id:"Eyes5"},
+		{src:"images/Eyes6.png?1681502948529", id:"Eyes6"},
+		{src:"images/Emily.Archer_DressUpGame_final_atlas_1.png?1681502948453", id:"Emily.Archer_DressUpGame_final_atlas_1"},
+		{src:"images/Emily.Archer_DressUpGame_final_atlas_2.png?1681502948453", id:"Emily.Archer_DressUpGame_final_atlas_2"},
+		{src:"images/Emily.Archer_DressUpGame_final_atlas_3.png?1681502948453", id:"Emily.Archer_DressUpGame_final_atlas_3"},
+		{src:"images/Emily.Archer_DressUpGame_final_atlas_4.png?1681502948453", id:"Emily.Archer_DressUpGame_final_atlas_4"},
+		{src:"images/Emily.Archer_DressUpGame_final_atlas_5.png?1681502948454", id:"Emily.Archer_DressUpGame_final_atlas_5"},
+		{src:"sounds/NailsHairHipsHeelsTodrickHallCleanVersionwav.mp3?1681502948529", id:"NailsHairHipsHeelsTodrickHallCleanVersionwav"}
 	],
 	preloads: []
 };
